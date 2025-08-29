@@ -1,4 +1,4 @@
-# OOP Assignment: Classes, Inheritance & Polymorphism 🏗️🎭
+# OOP Assignment: Classes, Inheritance & Polymorphism
 
 ## Overview
 
